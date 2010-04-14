@@ -72,8 +72,8 @@ ilisateurs.
 	
 	[]
 	
-	Le monitoring inclut également des statistiques sur les erreurs http, sur les warnings et erreurs dans les logs
-	et sur les caches de données si ehcache.
+	Le monitoring inclut également des statistiques sur les erreurs http, sur les warnings et erreurs ,
+	sur les caches de données si ehcache et sur les jobs en batchs si quartzes si ehcache.
 
 	Un serveur de collecte optionnel et indépendant peut si nécessaire être utilisé pour décharger l'application de la gestion du stockage,
 	et de la génération des rapports et pour centraliser les données d'applications en cluster ou de plusieurs applications.

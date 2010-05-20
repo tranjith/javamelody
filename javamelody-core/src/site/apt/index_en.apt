@@ -44,7 +44,7 @@ n by users.
 	The monitoring includes summary charts showing the evolution over time of the following indicators:
 
 	* Number of executions, mean execution times and percentage of errors of http requests,
-	sql requests or methods of business façades (if EJB3 or if Spring)
+, jsp pages or methods of business façades (if EJB3, Spring or Guice or if Spring)
 	
 	* Java memory
 
@@ -59,7 +59,7 @@ n by users.
 	These charts can be viewed on the current day, year or custom periodmonth or year.
 
 	The monitoring includes statistics of predefined counters (as of today http requests, sql requests
-	and methods of business façades if EJB3 or if Spring) with, for each counter :
+	and methods of business fa�, Spring or Guice or if Spring) with, for each counter :
 
 	* A summary indicating the overall number of executions, the average execution time, the cpu time and the percentage of errors. 
 

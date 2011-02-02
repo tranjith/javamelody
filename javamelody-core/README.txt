@@ -22,12 +22,12 @@ Version Java requise en exécution : 1.5 minimum,
 	1.6 recommandé pour fonctions complémentaires (heap dump, histogramme mémoire, stack traces et system load average),
 	JDK ou JJRockit d'Oracle/BEA ou J9 d'IBM d'Oracle/BEA
 Version de serveur requise en exécution : api servlet 2.4 minimum (ou JavaEE 1.4), 
-	comme Tomcat 5.5 ou 6, GlassFish v2 ou v3, JBoss 4 ou 5, Jonas 4 ou 5, WebLogic 9 ou 10
+	com, 6 ou 7, GlassFish v2 ou v3, JBoss 4, 5 ou 6, Jonas 4 ou 5, WebLogic 9, 10 ou 11Logic 9 ou 10
 Dépendance requise : JRobin (LGPL) pour les courbes d'évolution
 Dépendances optionnelles : iText (LGPL ou MPL) pour les rapports au format pdf en plus de html,
 	Spring AOP, AOP alliance, Spring core, Spring beans et Commons logging pour le monitoring des,
 	Ehcache pour le monitoring des caches, Quartz pour le monitoring des jobs en batchs beans Spring
-Langag, anglais et allemandisNavigateur : Le rapport html de JavaMelody est optimisé pour Firefox, Chrome ou MSIE8 (MSIE7 non recommandé).is et anglais
+Langag, anglais, allemand et portugaisisNavigateur : Le rapport html de JavaMelody est optimisé pour Firefox, Chrome ou MSIE8 (MSIE7 non recommandé).is et anglais
 
 Pour le guide d'installation et le guide développeur voir le fichier texte src/site/apt/user_guide.apt
 Pour d'autres guides voir le répertoire src/site

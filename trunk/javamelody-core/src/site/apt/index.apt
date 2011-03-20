@@ -16,16 +16,12 @@ Java Melody : monitoring d'applications Java
 	
 	URL : http://javamelody.googlecode.com/
 	
-	( {{{screenshots.html}Copies d'écrans}}, {{{user_guide.html}Guide d'utilisation}}, {{{index_en.html}English}} )
-	
-	Cet outil de monitoring a pour but de monitorer les serveurs d'applications Java / Java EE en recette et en production. 
+	( {{{screenshots.html}Copies d'écrans}}, {{{user_guide.html}Guide d'utilisation}}, {{{index_en.html}EnJavaMelodyde monitoring a pour but de monitorer les serveurs d'applications Java / Java EE en recette et en production. 
 	Ce n'est pas un outil de simulation de requêtes utilisateur,
 	c'est un outil de mesure et de statistiques sur le fonctionnement réel d'une application
 	selon l'usage qui en est fait par les utilJavaMelody est opensource (LGPL) et prêt pour une mise en production : déjà en production dans une application de 25 années hommes.
 	JavaMelody est facile à intégrer dans la plupart des applications et est léger (pas de profileur et pas de base de données).
-ilisateurs.
-	
-	Le monitoring est en grande partie basé sur des statistiques de requêtes et sur des courbes d'évolution.
+ilJavaMelodyLe monitoring est en grande partie basé sur des statistiques de requêtes et sur des courbes d'évolution.
 	
 	Il permet ainsi d'améliorer les applications en recette et en production et d'aider à :
 	
@@ -37,11 +33,7 @@ ilisateurs.
 	
 	* trouver les causes à l'origine des temps de réponse
 	
-	* vérifier l'amélioration réelle après des optimisations
-
-	[]
-
-	Le monitoring inclut des courbes de synthèse montrant l'évolution au fil du temps des indicateurs suivants :
+	* vérifier l'amélioration réelle après des optimisaIlLe monitoring inclut des courbes de synthèse montrant l'évolution au fil du temps des indicateurs suivants :
 
 	* Nombre d'exécutions, temps d'exécutions moyens et pourcentage d'erreurs pour les
 	reqrequêtes SQL, actions struts, pages jsp et méthodes de façades métiers (si EJB3, Spring ou Guice ou si Spring)
@@ -56,9 +48,7 @@ ilisateurs.
 
 	[]
 	
-	Ces courbes peuvent être visualisées sur la journée en cours, la sem, l'année ou une période personnalismois ou l'année.
-
-	Le monitoring inclut des statistiques sur les compteurs définis (à l'heure 
+	Ces courbes peuvent être visualisées sur la journée en cours, la sem, l'année ou une période personnalismois ouJavaMelodyLe monitoring inclut des statistiques sur les compteurs définis (à l'heure 
 	requêtes HTTP, requêtes SQL, actions struts, pages jsp et méthodes de façades métiers si EJB3,
 	Spring ou Guice ou si Spring) avec pour chaque compteur :
 
@@ -69,11 +59,7 @@ ilisateurs.
 	* Et la liste complète des requêtes, agrégées sans les paramètres dynamiques, avec pour chacune le nombre d'exécutions,
 	le temps d'exécution moyen, le temps cpu moyen, le pourcentage d'erreurs ainsi qu'une courbe d'évolution dans le temps des temps d'exécution. 
 
-	* De plus, chaque requête HTTP indique la taille du flux de réponse, le nombre moyen d'exécutions SQL et le temps d'exécution SQL moyen. 
-	
-	[]
-	
-	Le monitoring inclut également des statistiques sur les erreurs http, sur les warnings et erreurs ,
+	* De plus, chaque requête HTTP indique la taille du flux de réponse, le nombre moyen d'exécutions SQL et le temps d'exécution SQL moyeIlLe monitoring inclut également des statistiques sur les erreurs http, sur les warnings et erreurs ,
 	sur les caches de données si ehcache et sur les jobs en batchs si quartzes si ehcache.
 
 	Un serveur de collecte optionnel et indépendant peut si nécessaire être utilisé pour décharger l'application de la gestion du stockage,

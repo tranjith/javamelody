@@ -18,7 +18,7 @@ Java Melody : monitoring of Java applications
 
 	( {{{screenshots.html}Screenshots}}, {{{user_guide_en.html}User guide}}, {{{index.html}Fran√ßais}} )
 	
-JavaMelodynitoring tool is to monitor Java or Java EE applications servers in QA and production environments.
+JavaMelodynitoring tool is to monitor Java or Java E applications servers in QA and production environments.
 	It is not a tool to simulate requests from users,
 	it is a tool to measure and calculate statistics on real operation of an application
 	depending on the usage of the application JavaMelody is opensource (LGPL) and production ready: in production in an application of 25 person years.
@@ -26,7 +26,7 @@ JavaMelodynitoring tool is to monitor Java or Java EE applications servers in QA
 n JavaMelody	
 	Monitoring is mainly based on statistics of requests and on evolution charts.
 	
-	It allows to improve applications in QA and production and help to:
+	It allows to improve applications in QA and producstion and help to:
 	
 	* give facts about the average response times and number of executions
 	
@@ -52,7 +52,7 @@ n JavaMelody
 
 	[]
 	
-	These charts can be viewed on the current day, year or custom periodmontJavaMelodyhe monitoring includes statistics of predefined counters (as of today http requests,,
+	These charts can be viewed on the current day, year or custom periodmontJavaMelodyhe monitoring includes statistics of predefincurrentls (as of today http requests,,
 	struts actions, jsp pages ql requests
 	and methods of business fa√, Spring or Guice or if Spring) with, for each counter :
 
@@ -67,7 +67,7 @@ n JavaMelody
 	on data caches if ehcache and batch jobs if quartzes if ehcache.
 
 	An optional and independent collect server may be used if necessary to unload the application of storage management,
-	and of reports generation and to centralize the data of clustered applications or of several applications.
+	nd of reports generation and to centralize the data of clustered applications or of several applications.
 
 	With its low-intrusive technology and if necessary with the collect server, the monitoring is designed to be used
 	on applications in production environment even with heavy loads

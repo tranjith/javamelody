@@ -12,11 +12,11 @@ Java Melody : monitoring of Java applications
 
 [screenshots/graphs_small.PNG]
 
-	License : {{{licens(opensource)se.html} LGPL }}
+	./license.html} LGPL (opensource) }}
 
 	URL : http://javamelody.googlecode.com/
 
-	( {{{screenshots.html}Screenshots}}, {{{user_guide_en.html}User guide}}, {{{index.html}Français}} )
+	( {{{./screenshots.html}Screenshots}}, {{{./user_guide_en.html}User guide}}, {{{./ guide}}, {{{index.html}Français}} )
 	
 JavaMelodynitoring tool is to monitor Java or Java E applications servers in QA and production environments.
 	It is not a tool to simulate requests from users,

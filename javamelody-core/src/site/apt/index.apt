@@ -39,6 +39,7 @@ n JavaMelody
 	* verify the real improvement after optimizaIthe monitoring includes summary charts showing the evolution over time of the following indicators:
 
 	* Number of executions, mean execution times and percentage of errors of http requests,
+, jsf action
 , struts action
 , jsp pages or methods of business fa√ßades (if EJB3, Spring or Guice or if Spring)
 	
@@ -53,7 +54,7 @@ n JavaMelody
 	[]
 	
 	These charts can be viewed on the current day, year or custom periodmontJavaMelodyhe monitoring includes statistics of predefincurrentls (as of today http requests,,
-	struts actions, jsp pages ql requests
+	jsf actions, struts actions, jsp pages ql requests
 	and methods of business fa√, Spring or Guice or if Spring) with, for each counter :
 
 	* A summary indicating the overall number of executions, the average execution time, the cpu time and the percentage of errors. 

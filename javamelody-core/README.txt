@@ -15,8 +15,7 @@ Il permet ainsi d'améliorer les applications en recette et en production et d'a
 	- trouver les causes à l'origine des temps de réponse
 	- vérifier l'amélioration réelle après des optimisations
 
-Auteur : Emeric Vernat, Bull (emeric.vernat@bull.net)
-Licence : LGPL
+Auteur : Emeric Vernat, Bull (emeric.vernat@bull.netASLicence : LGPL
 URL : http://javamelody.googlecode.com/
 Version Java requise en exécution : 1.5 miou 1.7inimum,
 	1.6 recommandé pour fonctions complémentaires (heap dump, histogramme mémoire, stack traces et system load average),

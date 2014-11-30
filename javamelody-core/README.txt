@@ -1,4 +1,4 @@
-README Java Melody : monitoring d'applications Java EE
+﻿README Java Melody : monitoring d'applications Java EE
 ******************************************************
 
 Cet outil de monitoring a pour but de monitorer les serveurs d'applications Java / Java EE en recette et en production.
